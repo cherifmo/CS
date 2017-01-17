@@ -4,3 +4,6 @@ mv icasa.light.manager/target/*.jar ../../icasa.teaching.distribution/applicatio
 mv icasa.light.regulator/target/*.jar ../../icasa.teaching.distribution/applications/
 mv icasa.light.user.command/target/*.jar ../../icasa.teaching.distribution/applications/
 mv icasa.temperature.controller/target/*.jar ../../icasa.teaching.distribution/applications/
+mv icasa.temperature.api/target/*.jar ../../icasa.teaching.distribution/applications/
+mv icasa.temperature.manager/target/*.jar ../../icasa.teaching.distribution/applications/
+mv icasa.temperature.user.command/target/*.jar ../../icasa.teaching.distribution/applications/
